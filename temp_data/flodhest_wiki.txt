@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="da" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Flodhest - Wikipedia, den frie encyklopædi</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januar","februar","marts","april","maj","juni","juli","august","september","oktober","november","december"],"wgRequestId":"3761d76c-16e9-4de3-a949-5da325bb6455","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Flodhest","wgTitle":"Flodhest","wgCurRevisionId":11190772,"wgRevisionId":11190772,"wgArticleId":5023,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Kilder på engelsk (en)","CS1: Juliansk-gregoriansk usikkerhed","CS1-vedligeholdelse: url-status","Sider med infobokse uden datarækker under headerrække","Lokalt billede forskelligt fra Wikidata","Wikipedia artikler med NDL autoritetsdata-ID",
+"Wikipedia artikler med Den Store Danske autoritetsdata-ID","IUCN Rødliste - sårbare arter","Afrikas fauna","Flodheste"],"wgPageContentLanguage":"da","wgPageContentModel":"wikitext","wgRelevantPageName":"Flodhest","wgRelevantArticleId":5023,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"da","pageLanguageDir":"ltr","pageVariantFallbacks":"da"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":80000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"dansk","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q34505","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":
+false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.player.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.tmh.player","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.NewSection","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks",
+"ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=da&amp;modules=ext.cite.styles%7Cext.tmh.player.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=da&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=da&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg/1200px-Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="803"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg/800px-Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="536"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg/640px-Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="428"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Flodhest - Wikipedia, den frie encyklopædi"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//da.m.wikipedia.org/wiki/Flodhest"/>
+<link rel="alternate" type="application/x-wiki" title="Redigér" href="/w/index.php?title=Flodhest&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (da)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//da.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://da.wikipedia.org/wiki/Flodhest"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Flodhest rootpage-Flodhest skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Flodhest</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Fra Wikipedia, den frie encyklopædi</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Spring til navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Spring til søgning</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="da" dir="ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 125%; background-color: pink;">Flodhest</th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/Fil:Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park,_Florida_-_2010-01-13.jpg" class="image"><img alt="Hippopotamus amphibius - Homosassa Springs Wildlife State Park, Florida - 2010-01-13.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg/260px-Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg" decoding="async" width="260" height="174" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg/390px-Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg/520px-Hippopotamus_amphibius_-_Homosassa_Springs_Wildlife_State_Park%2C_Florida_-_2010-01-13.jpg 2x" data-file-width="3585" data-file-height="2400" /></a></td></tr><tr><th colspan="2" style="text-align:center;background: pink;"><a href="/wiki/Bevaringsstatus" title="Bevaringsstatus">Bevaringsstatus</a></th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/Fil:Status_iucn3.1_VU_da.svg" class="image"><img alt="Status iucn3.1 VU da.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Status_iucn3.1_VU_da.svg/220px-Status_iucn3.1_VU_da.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Status_iucn3.1_VU_da.svg/330px-Status_iucn3.1_VU_da.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Status_iucn3.1_VU_da.svg/440px-Status_iucn3.1_VU_da.svg.png 2x" data-file-width="240" data-file-height="64" /></a><br /><a href="/wiki/S%C3%A5rbar" title="Sårbar">Sårbar</a><small>&#160;(<a href="/wiki/R%C3%B8dliste" class="mw-redirect" title="Rødliste">IUCN 3.1</a>)<sup id="cite_ref-iucn_status_19_November_2021_1-0" class="reference"><a href="#cite_note-iucn_status_19_November_2021-1">&#91;1&#93;</a></sup></small></td></tr><tr><th colspan="2" style="text-align:center;background: pink;"><a href="/wiki/Klassifikation" title="Klassifikation">Videnskabelig klassifikation</a></th></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Rige_(biologi)" title="Rige (biologi)">Rige</a></th><td>
+Animalia (<a href="/wiki/Dyr" title="Dyr">Dyr</a>)</td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/R%C3%A6kke_(biologi)" title="Række (biologi)">Række</a></th><td>
+Chordata (<a href="/wiki/Chordater" title="Chordater">Chordater</a>)</td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Klasse_(biologi)" title="Klasse (biologi)">Klasse</a></th><td>
+Mammalia (<a href="/wiki/Pattedyr" title="Pattedyr">Pattedyr</a>)</td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Orden_(biologi)" title="Orden (biologi)">Orden</a></th><td>
+Artiodactyla<br />(<a href="/wiki/Parrett%C3%A5ede_hovdyr" title="Parrettåede hovdyr">Parrettåede hovdyr</a>)</td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Familie_(biologi)" title="Familie (biologi)">Familie</a></th><td>
+Hippopotamidae<br />(<a href="/wiki/Flodheste" title="Flodheste">Flodheste</a>)</td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Sl%C3%A6gt_(biologi)" title="Slægt (biologi)">Slægt</a></th><td>
+<i>Hippopotamus</i></td></tr><tr><th scope="row" style="text-align:left"><a href="/wiki/Art" title="Art">Art</a></th><td>
+<i>H. amphibius</i></td></tr><tr><th colspan="2" style="text-align:center;background: pink;"><a href="/wiki/Videnskabeligt_artsnavn" title="Videnskabeligt artsnavn">Videnskabeligt artsnavn</a></th></tr><tr><td colspan="2" style="text-align:center">
+<i><b>Hippopotamus amphibius</b></i><br /><small><a href="/wiki/Carl_von_Linn%C3%A9" title="Carl von Linné">Linnaeus</a>, <a href="/wiki/1758" title="1758">1758</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></small></td></tr><tr><th colspan="2" style="text-align:center;background: pink;">Kort</th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/Fil:Hippo_distribution.gif" class="image" title="Den røde farve viser flodhestens historiske udbredelse, mens den grønne farve viser dens nuværende udbredelse."><img alt="Den røde farve viser flodhestens historiske udbredelse, mens den grønne farve viser dens nuværende udbredelse." src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hippo_distribution.gif/200px-Hippo_distribution.gif" decoding="async" width="200" height="218" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hippo_distribution.gif/300px-Hippo_distribution.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/0/09/Hippo_distribution.gif 2x" data-file-width="303" data-file-height="330" /></a><div>Den røde farve viser flodhestens historiske udbredelse, mens den grønne farve viser dens nuværende udbredelse.</div></td></tr><tr><td colspan="2" style="text-align:center;background: pink;">
+<small><a href="/wiki/Hj%C3%A6lp:Taksobokse" title="Hjælp:Taksobokse">Hjælp til læsning af taksobokse</a></small></td></tr></tbody></table>
+<p>En <b>flodhest</b> (<i>Hippopotamus amphibius</i>) er et stort, primært <a href="/wiki/Plante%C3%A6der" title="Planteæder">planteædende</a>, <a href="/wiki/Pattedyr" title="Pattedyr">patte-</a> og <a href="/wiki/Hovdyr" title="Hovdyr">hovdyr</a>, som lever i <a href="/wiki/Afrika" title="Afrika">Afrika</a> syd for <a href="/wiki/Sahara" title="Sahara">Sahara</a>. Det er en af kun to eksisterende arter i familien <a href="/wiki/Hippopotamidae" class="mw-redirect" title="Hippopotamidae">Hippopotamidae</a>. Den anden er <a href="/wiki/Dv%C3%A6rgflodhest" title="Dværgflodhest">dværgflodhesten</a> (<i>Choeropsis liberiensis</i>; tidligere kaldet <i>Hexaprotodon liberiensis</i>). Navnet kommer fra det <a href="/wiki/Oldgr%C3%A6sk" title="Oldgræsk">oldgræske</a> ord <i>ἱπποπόταμος</i>, som også har betydningen flodhest.
+</p><p>Flodhesten er den tredjestørste art af landpattedyr (efter <a href="/wiki/Elefant" class="mw-redirect" title="Elefant">elefanten</a> og <a href="/wiki/N%C3%A6sehorn" title="Næsehorn">næsehornet</a>) og det tungeste eksisterende dyr i <a href="/wiki/Orden_(biologi)" title="Orden (biologi)">ordenen</a> <a href="/wiki/Parrett%C3%A5ede_hovdyr" title="Parrettåede hovdyr">Artiodactyla</a>. På trods af dens fysiske lighed med <a href="/wiki/Gris" class="mw-redirect" title="Gris">grisen</a> og andre parrettåede hovdyr, er flodhestens nærmeste nulevende slægtninge <a href="/wiki/Hval" class="mw-redirect" title="Hval">hvaler</a>, <a href="/wiki/Delfin" class="mw-redirect" title="Delfin">delfiner</a> og <a href="/wiki/Marsvin-familien" title="Marsvin-familien">marsvin</a>, som de afveg fra for omkring 55 millioner år siden. Flodheste er genkendelige på deres tøndeformede kroppe, deres store spidse hjørnetænder, næsten hårløse kroppe, søjleformede ben og store størrelse. En fuldvoksen hanflodhest vejer i gennemsnit 1.500 kg mens hunnerne i gennemsnit vejer 1.300 kg. På trods af sin kraftige form og korte ben er den i stand til at løbe over 30 km/t over kortere afstande.
+</p><p>Flodheste lever i og omkring <a href="/wiki/Flod" title="Flod">floder</a>, <a href="/wiki/S%C3%B8" title="Sø">søer</a> og <a href="/wiki/Mangrove" title="Mangrove">mangrovesumpe</a>, hvor få hanner dominerer bestemte flodstrækninger med grupper på fem til tredive hunner og unge flodheste. I løbet af dagen holder flodhestene sig kølige ved at blive i vandet eller bade sig i mudder. Både reproduktion og fødsel hos flodheste foregår i vand. I skumringen kommer flodhesten op på land for at spise. De spiser hovedsageligt <a href="/wiki/Gr%C3%A6s" class="mw-redirect" title="Græs">græs</a> og spiser omkring 50 kg hver nat,<sup id="cite_ref-grass_3-0" class="reference"><a href="#cite_note-grass-3">&#91;3&#93;</a></sup> men kan nå helt op på 68 kg. Mens flodheste hviler i grupper i vandet, græsser de alene, og flodheste er ikke territoriale på land. Flodhesten er blandt de farligste pattedyr i verden på grund af sin størrelse og meget aggressive og uforudsigelige natur. Det anslås at flodheste dræber 100-150 mennesker hvert år.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Flodhesten er truet af tab af levesteder og <a href="/wiki/Krybskytte" title="Krybskytte">krybskytteri</a> for dens <a href="/wiki/K%C3%B8d" title="Kød">kød</a> og <a href="/wiki/Elfenben" title="Elfenben">elfenbenstænder</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="da" dir="ltr"><h2 id="mw-toc-heading">Indholdsfortegnelse</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymologi"><span class="tocnumber">1</span> <span class="toctext">Etymologi</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Taksonomi_og_udvikling"><span class="tocnumber">2</span> <span class="toctext">Taksonomi og udvikling</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Klassifikation"><span class="tocnumber">2.1</span> <span class="toctext">Klassifikation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Evolution"><span class="tocnumber">2.2</span> <span class="toctext">Evolution</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Uddøde_arter"><span class="tocnumber">2.3</span> <span class="toctext">Uddøde arter</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Fysiske_kendetegn"><span class="tocnumber">3</span> <span class="toctext">Fysiske kendetegn</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Udbredelse_og_bevaringsstatus"><span class="tocnumber">4</span> <span class="toctext">Udbredelse og bevaringsstatus</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Flodheste_i_Amerika"><span class="tocnumber">4.1</span> <span class="toctext">Flodheste i Amerika</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Adfærd_og_biologi"><span class="tocnumber">5</span> <span class="toctext">Adfærd og biologi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Kommunikation"><span class="tocnumber">5.1</span> <span class="toctext">Kommunikation</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Reproduktion"><span class="tocnumber">5.2</span> <span class="toctext">Reproduktion</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Flodheste_og_andre_dyr"><span class="tocnumber">5.3</span> <span class="toctext">Flodheste og andre dyr</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Flodheste_og_mennesker"><span class="tocnumber">6</span> <span class="toctext">Flodheste og mennesker</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Angreb_på_mennesker"><span class="tocnumber">6.1</span> <span class="toctext">Angreb på mennesker</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#I_fangenskab"><span class="tocnumber">6.2</span> <span class="toctext">I fangenskab</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Flodhesten_i_kulturen"><span class="tocnumber">7</span> <span class="toctext">Flodhesten i kulturen</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Se_også"><span class="tocnumber">8</span> <span class="toctext">Se også</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Kilder"><span class="tocnumber">9</span> <span class="toctext">Kilder</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymologi">Etymologi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flodhest&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Redigér afsnit: Etymologi">redigér</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Flodhest&amp;action=edit&amp;section=1" title="Redigér afsnit: Etymologi">rediger kildetekst</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Flodhestens latinske navn <i>hippopotamus</i> er afledt af det <a href="/wiki/Oldgr%C3%A6sk" title="Oldgræsk">oldgræske</a> ord ἱπποπόταμος, (<a href="/wiki/Translitteration" title="Translitteration">translittereret</a>: <i>hippopótamos</i>), hvor ἵππος eller <i>híppos</i> betyder "hest", og ποταμός eller <i>potamós</i> betyder flod. Direkte oversat har det betydningen "hesten af floden".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Taksonomi_og_udvikling">Taksonomi og udvikling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flodhest&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Redigér afsnit: Taksonomi og udvikling">redigér</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Flodhest&amp;action=edit&amp;section=2" title="Redigér afsnit: Taksonomi og udvikling">rediger kildetekst</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Klassifikation">Klassifikation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flodhest&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Redigér afsnit: Klassifikation">redigér</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Flodhest&amp;action=edit&amp;section=3" title="Redigér afsnit: Klassifikation">rediger kildetekst</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fil:Hipop%C3%B3tamo_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_60.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_60.jpg/220px-Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_60.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_60.jpg/330px-Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_60.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_60.jpg/440px-Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_60.jpg 2x" data-file-width="7165" data-file-height="4777" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fil:Hipop%C3%B3tamo_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_60.jpg" class="internal" title="Forstør"></a></div>En flodhest, som stikker hovedet op af vandet.</div></div></div>
+<p>Flodhesten er en <a href="/wiki/Art" title="Art">art</a> i <a href="/wiki/Familie_(biologi)" title="Familie (biologi)">familien</a> <a href="/wiki/Hippopotamidae" class="mw-redirect" title="Hippopotamidae">Hippopotamidae</a> i slægten <i>Hippopotamus</i>. Dværgflodhesten (<i>Choeropsis liberiensis</i>) tilhører en anden slægt i Hippopotamidae, ligesom <i>Hexaprotodon</i>, der er en slægt af uddøde flodheste, hvis sidste medlem <i>Hexaprotodon madagascariensis</i> uddøde på <a href="/wiki/Madagascar" class="mw-redirect" title="Madagascar">Madagascar</a> i historisk tid (efter år 1500). Andre uddøde slægter indgår også i familien.<sup id="cite_ref-Boisserie_6-0" class="reference"><a href="#cite_note-Boisserie-6">&#91;6&#93;</a></sup>
+</p><p>Hippopotamidae er et medlem af ordenen parrettåede hovdyr (<a href="/wiki/Artiodactyla" class="mw-redirect" title="Artiodactyla">Artiodactyla</a>]. Andre artiodactyler inkluderer familierne <a href="/wiki/Kamel" title="Kamel">kameler</a>, <a href="/wiki/Kv%C3%A6g" class="mw-redirect" title="Kvæg">kvæg</a>, <a href="/wiki/Hjort" class="mw-redirect" title="Hjort">hjorte</a>, <a href="/wiki/Svin" class="mw-redirect" title="Svin">svin</a>, og <a href="/wiki/Hval" class="mw-redirect" title="Hval">hvaler</a>.<sup id="cite_ref-Boisserie_6-1" class="reference"><a href="#cite_note-Boisserie-6">&#91;6&#93;</a></sup> Flodheste er nærmest beslægtet med sidstnævnte gruppe (se også afsnittet nedenfor), og er blevet klassificeret sammen med dem i underordenen <a href="/w/index.php?title=Cetancodonta&amp;action=edit&amp;redlink=1" class="new" title="Cetancodonta (ikke skrevet endnu)">Cetancodonta</a>.<sup id="cite_ref-Boisserie_6-2" class="reference"><a href="#cite_note-Boisserie-6">&#91;6&#93;</a></sup>
+</p><p>Fem underarter af flodheste er blevet beskrevet baseret på <a href="/wiki/Geografisk" class="mw-redirect" title="Geografisk">geografiske</a> forskelle og <a href="/wiki/Morfologi_(biologi)" title="Morfologi (biologi)">morfologiske</a> forskelle i deres <a href="/wiki/Kranie" class="mw-redirect" title="Kranie">kranier</a>:<sup id="cite_ref-The_Hippos_7-0" class="reference"><a href="#cite_note-The_Hippos-7">&#91;7&#93;</a></sup><span class="reference plainlinksneverexpand" style="white-space:nowrap"><sup>:3</sup> </span>
+</p>
+<ul><li><b>Den store nordlige flodhest</b> eller <b>Nilflodhesten</b>, <i>H. a. amphibius</i> – hvis udbredelse strakte sig fra <a href="/wiki/Egypten" title="Egypten">Egypten</a> (hvor de nu er uddøde), og sydpå langs <a href="/wiki/Nilen" title="Nilen">Nilen</a>, til <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a> og <a href="/wiki/Mozambique" title="Mozambique">Mozambique</a>.</li>
+<li><b>Den østafrikanske flodhest</b>, <i>H. a. kiboko</i> – som lever i <a href="/wiki/Kenya" title="Kenya">Kenya</a> ved <a href="/wiki/Afrikas_Store_S%C3%B8er" title="Afrikas Store Søer">Afrikas Store Søer</a> og i <a href="/wiki/Somalia" title="Somalia">Somalia</a> på <a href="/wiki/Afrikas_Horn" title="Afrikas Horn">Afrikas Horn</a>. Deres <a href="/wiki/N%C3%A6se" title="Næse">næser</a> og omkringværende <a href="/wiki/Organ" title="Organ">organer</a> er lidt bredere og deres kranier er mere udhulede mellem <a href="/wiki/%C3%98je" title="Øje">øjnene</a>, end hos de andre underarter.</li>
+<li><b>Den sydafrikanske flodhest</b>, <i>H. a. capensis</i> – som lever fra <a href="/wiki/Zambia" title="Zambia">Zambia</a> til <a href="/wiki/Sydafrika" title="Sydafrika">Sydafrika</a>. Denne har det fladeste kranie af alle underarterne.</li>
+<li><b>Den vestafrikanske flodhest</b>, <i>H. a. tschadensis</i> – som lever fra <a href="/wiki/Chad" class="mw-redirect" title="Chad">Chad</a> og længere vestpå. Denne har et lidt kortere og bredere ansigt, med mere fremtrædende <a href="/wiki/Knogle_(anatomi)" title="Knogle (anatomi)">knogler</a> omkring øjnene.</li>
+<li><b>Den angolanske flodhest</b>, <i>H. a. constrictus</i> – som lever i <a href="/wiki/Angola" title="Angola">Angola</a> og de sydlige dele af <a href="/wiki/Den_Demokratiske_Republik_Congo" class="mw-redirect" title="Den Demokratiske Republik Congo">Den Demokratiske Republik Congo</a> og <a href="/wiki/Namibia" title="Namibia">Namibia</a>. Denne har mere snævre <a href="/wiki/%C3%98jenhule" title="Øjenhule">øjenhuler</a> end de andre underarter.</li></ul>
+<p>De beskrevne morfologiske forskelle er små nok til, at de kunne være et resultat af simpel variation i arten, og afspejle tilfældigheder i de indsamlede prøver.<sup id="cite_ref-The_Hippos_7-1" class="reference"><a href="#cite_note-The_Hippos-7">&#91;7&#93;</a></sup><span class="reference plainlinksneverexpand" style="white-space:nowrap"><sup>:2</sup> </span> <a href="/wiki/Genetisk" class="mw-redirect" title="Genetisk">Genetiske</a> <a href="/wiki/Analyse" title="Analyse">analyser</a> har testet eksistensen af tre af disse formodede underarter. En undersøgelse, der undersøgte <a href="/wiki/Mitokondrielt_DNA" title="Mitokondrielt DNA">mitokondrielt DNA</a> fra <a href="/wiki/Biopsi" title="Biopsi">hudbiopsier</a> taget fra 13 prøveudtagningssteder, betragtede <a href="/wiki/Genetisk_diversitet" title="Genetisk diversitet">genetisk diversitet</a> og struktur blandt flodhestepopulationer på tværs af <a href="/wiki/Afrika" title="Afrika">Afrika</a>. Ophavsmændene til undersøgelsen fandt små, men betydelige genetiske forskelle mellem <i>H. a. amphibius</i>, <i>H. a. capensis</i> og <i>H. a. kiboko</i>. Hverken <i>H. a. tschadensis</i> eller <i>H. a. constrictus</i> blev testet.<sup id="cite_ref-Okello_8-0" class="reference"><a href="#cite_note-Okello-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Evolution">Evolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flodhest&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Redigér afsnit: Evolution">redigér</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Flodhest&amp;action=edit&amp;section=4" title="Redigér afsnit: Evolution">rediger kildetekst</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fil:Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg/220px-Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg" decoding="async" width="220" height="174" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg/330px-Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg/440px-Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg 2x" data-file-width="1280" data-file-height="1013" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fil:Evolutionary_relationships_among_laurasiatherian_mammals_as_used_in_molecular_evolution_analyses.jpg" class="internal" title="Forstør"></a></div>Evolutionære forhold mellem flodheste og <a href="/wiki/Cetacea" class="mw-redirect" title="Cetacea">Cetacea</a> (hvaler, delfiner og marsvin).<sup id="cite_ref-TsagkogeorgaMcGowen2015_10-0" class="reference"><a href="#cite_note-TsagkogeorgaMcGowen2015-10">&#91;10&#93;</a></sup></div></div></div>
+<p>Indtil 1909 grupperede naturforskere flodheste med grise, baseret på deres <a href="/wiki/Kindtand" title="Kindtand">kindtandsmønstre</a>. Siden da har flere undersøgelser, først fra blodproteiner, derefter fra molekylær systematik,<sup id="cite_ref-Genomes_11-0" class="reference"><a href="#cite_note-Genomes-11">&#91;11&#93;</a></sup> <a href="/wiki/DNA" title="DNA">DNA</a><sup id="cite_ref-DNA_12-0" class="reference"><a href="#cite_note-DNA-12">&#91;12&#93;</a></sup><sup id="cite_ref-Nature2009_13-0" class="reference"><a href="#cite_note-Nature2009-13">&#91;13&#93;</a></sup> og fossiler, bevist at deres nærmeste nulevende slægtninge er fra <i><a href="/wiki/Cetacea" class="mw-redirect" title="Cetacea">Cetacea</a></i>-ordenen (hvaler, delfiner og marsvin).<sup id="cite_ref-ScienceNews_14-0" class="reference"><a href="#cite_note-ScienceNews-14">&#91;14&#93;</a></sup>Flodhestes og hvalers fælles forfader afveg sig fra underordenen Ruminantia og resten af de parrettåede hovdyr, hvorefter slægten for hvaler og flodheste splittedes kort efter.<sup id="cite_ref-DNA_12-1" class="reference"><a href="#cite_note-DNA-12">&#91;12&#93;</a></sup><sup id="cite_ref-Cetartiodactyla_15-0" class="reference"><a href="#cite_note-Cetartiodactyla-15">&#91;15&#93;</a></sup>
+</p>
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tbody><tr>
+<td style="width:1.5em;border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center">&#160;&#160;&#160;<a href="/wiki/Artiodactyla" class="mw-redirect" title="Artiodactyla">Artiodactyla</a>&#160;&#160;&#160;</td>
+<td rowspan="2">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tbody><tr>
+<td style="width:1.5em;border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center"><br /></td>
+<td rowspan="2">
+<p>&#160;<a href="/wiki/Tylopoda" class="mw-redirect" title="Tylopoda">Tylopoda</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-left:1px solid black;" valign="top"><br />
+</td></tr>
+<tr>
+<td style="border-left:1px solid black; border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center">&#160;&#160;&#160;<a href="/w/index.php?title=Artiofabula&amp;action=edit&amp;redlink=1" class="new" title="Artiofabula (ikke skrevet endnu)">Artiofabula</a>&#160;&#160;&#160;</td>
+<td rowspan="2">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tbody><tr>
+<td style="width:1.5em;border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center"><br /></td>
+<td rowspan="2">
+<p>&#160;<a href="/wiki/Suina" class="mw-redirect" title="Suina">Suina</a>&#160;&#160;&#160;&#160;
+</p>
+</td></tr>
+<tr>
+<td style="border-left:1px solid black;" valign="top"><br />
+</td></tr>
+<tr>
+<td style="border-left:1px solid black; border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center">&#160;&#160;&#160;<a href="/w/index.php?title=Cetruminantia&amp;action=edit&amp;redlink=1" class="new" title="Cetruminantia (ikke skrevet endnu)">Cetruminantia</a>&#160;&#160;&#160;</td>
+<td rowspan="2">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tbody><tr>
+<td style="width:1.5em;border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center"><br /></td>
+<td rowspan="2">
+<p>&#160;<a href="/wiki/Ruminantia" class="mw-redirect" title="Ruminantia">Ruminantia</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-left:1px solid black;" valign="top"><br />
+</td></tr>
+<tr>
+<td style="border-left:1px solid black; border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center">&#160;<a href="/w/index.php?title=Cetancodonta&amp;action=edit&amp;redlink=1" class="new" title="Cetancodonta (ikke skrevet endnu)">Cetancodonta</a><br />&#160;&#160;&#160;(<a href="/w/index.php?title=Whippomorpha&amp;action=edit&amp;redlink=1" class="new" title="Whippomorpha (ikke skrevet endnu)">Whippomorpha</a>)&#160;&#160;&#160;</td>
+<td rowspan="2">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tbody><tr>
+<td style="width:1.5em;border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center"><br /></td>
+<td rowspan="2">
+<p>&#160;<a href="/wiki/Hippopotamidae" class="mw-redirect" title="Hippopotamidae">Hippopotamidae</a>
+</p>
+</td></tr>
+<tr>
+<td style="border-left:1px solid black;" valign="top"><br />
+</td></tr>
+<tr>
+<td style="border-left:1px solid black; border-bottom:1px solid black;padding:0 0.2em;" valign="bottom" align="center"><br /></td>
+<td rowspan="2">
+<p>&#160;<a href="/wiki/Cetacea" class="mw-redirect" title="Cetacea">Cetacea</a>
+</p>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td valign="top"><br />
+</td></tr></tbody></table>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td valign="top"><br />
+</td></tr></tbody></table>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td valign="top"><br />
+</td></tr></tbody></table>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td valign="top"><br />
+</td></tr></tbody></table>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td valign="top"><br />
+</td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fil:Anthracotherium_magnum.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Anthracotherium_magnum.jpg/220px-Anthracotherium_magnum.jpg" decoding="async" width="220" height="106" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Anthracotherium_magnum.jpg/330px-Anthracotherium_magnum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Anthracotherium_magnum.jpg/440px-Anthracotherium_magnum.jpg 2x" data-file-width="5263" data-file-height="2536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fil:Anthracotherium_magnum.jpg" class="internal" title="Forstør"></a></div><i>Anthracotherium magnum</i>, en forfader til flodhesten, som levede i <a href="/wiki/Oligoc%C3%A6n" title="Oligocæn">Oligocæn-perioden</a> i <a href="/wiki/Europa" title="Europa">Europa</a></div></div></div>
+<p>Den seneste teori om <a href="/wiki/Hippopotamidae" class="mw-redirect" title="Hippopotamidae">Hippopotamidaes</a> oprindelse antyder, at flodheste og hvaler delte en fælles forfader, der ligesom flodheste både lever i vand og på land, og afveg sig fra andre <a href="/wiki/Artiodactyla" class="mw-redirect" title="Artiodactyla">artiodactyler</a> for omkring 60 millioner år siden.<sup id="cite_ref-DNA_12-2" class="reference"><a href="#cite_note-DNA-12">&#91;12&#93;</a></sup><sup id="cite_ref-ScienceNews_14-1" class="reference"><a href="#cite_note-ScienceNews-14">&#91;14&#93;</a></sup> Denne formodede forfædregruppe delte sig sandsynligvis i to grene for omkring 54 millioner år siden.<sup id="cite_ref-Genomes_11-1" class="reference"><a href="#cite_note-Genomes-11">&#91;11&#93;</a></sup>
+</p><p>En gren ville udvikle sig til hvaler, muligvis begyndende for omkring 52 millioner år siden, med den stadig landlige <i>Pakicetus</i> og andre tidlige hvalforfædre samlet kendt som Archaeoceti, som til sidst gennemgik tilpasning for at blive de helt akvatiske hvaler som vi kender i dag.<sup id="cite_ref-Cetartiodactyla_15-1" class="reference"><a href="#cite_note-Cetartiodactyla-15">&#91;15&#93;</a></sup> Den anden gren blev anthracotherne, en stor familie af firbenede dyr, som levede i slutningen af <a href="/wiki/Eoc%C3%A6n" title="Eocæn">Eocæn-perioden</a>, og lignede magre flodheste med forholdsvis små og smalle hoveder. Alle grene af anthracotherne, undtagen den der udviklede sig til flodheste, uddøde under <a href="/wiki/Plioc%C3%A6n" title="Pliocæn">Pliocæn-perioden</a> uden at efterlade nogle efterkommere.<sup id="cite_ref-ScienceNews_14-2" class="reference"><a href="#cite_note-ScienceNews-14">&#91;14&#93;</a></sup>
+</p><p>En grov evolutionær linje kan spores fra eocæne og <a href="/wiki/Oligoc%C3%A6n" title="Oligocæn">oligocæne</a> arter. Fra <a href="/wiki/Sl%C3%A6gt_(biologi)" title="Slægt (biologi)">slægterne</a> <i>Anthracotherium</i> og <i>Elomeryx</i> til de <a href="/wiki/Mioc%C3%A6n" title="Miocæn">miocæne</a> arter <i>Merycopotamus</i> og <i>Libycosaurus</i> og de tidligste anthracothere i Pliocæn.<sup id="cite_ref-Origins_16-0" class="reference"><a href="#cite_note-Origins-16">&#91;16&#93;</a></sup> Disse grupper levede i <a href="/wiki/Eurasien" title="Eurasien">Eurasien</a>, og opdagelsen af slægten <i>Epirigenys</i> i <a href="/wiki/%C3%98stafrika" title="Østafrika">Østafrika</a>, som sandsynligvis var i tæt familie med Hippopotamidae, antyder at flodhestes forfædre kom ind i Afrika for omkring 35 millioner år siden og var de tidligste store pattedyr til at kolonisere kontinentet.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>De ældste kendte <a href="/wiki/Individ" title="Individ">individer</a> i <a href="/wiki/Hippopotamidae" class="mw-redirect" title="Hippopotamidae">Hippopotamidae-familien</a> er fra slægten <i>Kenyapotamus</i> som levede i <a href="/wiki/Afrika" title="Afrika">Afrika</a> fra 16 til 8 millioner år siden. Mens flodhestearter spredte sig over <a href="/wiki/Asien" title="Asien">Asien</a> og <a href="/wiki/Europa" title="Europa">Europa</a>, er ingen flodheste nogensinde blevet opdaget i <a href="/wiki/Amerika" title="Amerika">Amerika</a>, selvom forskellige anthracother-slægter udvandrede til <a href="/wiki/Nordamerika" title="Nordamerika">Nordamerika</a> under den tidlige oligocæn. Fra 7,5 til 1,8 millioner år siden levede en forfader til den moderne flodhest, <i>Archaeopotamus</i>, i Afrika og <a href="/wiki/Mellem%C3%B8sten" title="Mellemøsten">Mellemøsten</a>.<sup id="cite_ref-Linnean_19-0" class="reference"><a href="#cite_note-Linnean-19">&#91;19&#93;</a></sup>
+</p><p>Mens fossiloptegnelsen for flodheste stadig er dårligt forstået, kan flodhesten og dværgflodhesten, have afveget fra resten af deres forfædre for så langt tilbage som 8 millioner år siden.<sup id="cite_ref-Origins_16-1" class="reference"><a href="#cite_note-Origins-16">&#91;16&#93;</a></sup><sup id="cite_ref-Linnean_19-1" class="reference"><a href="#cite_note-Linnean-19">&#91;19&#93;</a></sup><sup id="cite_ref-Boisserie_6-3" class="reference"><a href="#cite_note-Boisserie-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span id="Udd.C3.B8de_arter"></span><span class="mw-headline" id="Uddøde_arter">Uddøde arter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flodhest&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Redigér afsnit: Uddøde arter">redigér</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Flodhest&amp;action=edit&amp;section=5" title="Redigér afsnit: Uddøde arter">rediger kildetekst</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fil:Malagasy_Hippopotamus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Malagasy_Hippopotamus.jpg/220px-Malagasy_Hippopotamus.jpg" decoding="async" width="220" height="106" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Malagasy_Hippopotamus.jpg/330px-Malagasy_Hippopotamus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Malagasy_Hippopotamus.jpg/440px-Malagasy_Hippopotamus.jpg 2x" data-file-width="1332" data-file-height="640" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fil:Malagasy_Hippopotamus.jpg" class="internal" title="Forstør"></a></div>Skelet fra den madagaskiske flodhest, <i>Hexaprotodon madagascariensis</i>, ved siden af et kranie fra den moderne flodhest.</div></div></div>
+<p>Tre arter af Madagaskiske flodheste uddøde under <a href="/wiki/Holoc%C3%A6n" title="Holocæn">Holocæn-perioden</a> på <a href="/wiki/Madagaskar" title="Madagaskar">Madagaskar</a>, en af dem inden for de seneste 1.000 år. De madagaskiske flodheste var mindre end de moderne flodheste, sandsynligvis grundet en proces kendt som <a href="/wiki/%C3%98-dv%C3%A6rgv%C3%A6kst" title="Ø-dværgvækst">ø-dværgvækst</a>.<sup id="cite_ref-Stuenes_20-0" class="reference"><a href="#cite_note-Stuenes-20">&#91;20&#93;</a></sup> Fossile beviser indikerer, at mange madagaskiske flodheste blev jaget af mennesker. Dette har sandsynligvis været en betydelig faktor i forhold til deres endelige udryddelse.<sup id="cite_ref-Stuenes_20-1" class="reference"><a href="#cite_note-Stuenes-20">&#91;20&#93;</a></sup> Dog kan nogle isolerede medlemmer af madagaskiske flodheste have overlevet i fjerntliggende områder. I <a href="/wiki/1976" title="1976">1976</a> beskrev landsbyboere på Madagaskar et dyr kaldet <i>kilopilopitsofy</i>, som kan have været en madagaskisk flodhest.<sup id="cite_ref-Kidoky_21-0" class="reference"><a href="#cite_note-Kidoky-21">&#91;21&#93;</a></sup>
+</p><p>Tre arter af flodheste, den europæiske flodhest (<i>Hippopotamus antiquus</i>), <i>Hippopotamus major</i> og <i>Hippopotamus gorgops</i>, spredte sig over hele <a href="/wiki/Kontinentaleuropa" title="Kontinentaleuropa">Kontinentaleuropa</a> og <a href="/wiki/De_Britiske_%C3%98er" title="De Britiske Øer">De Britiske Øer</a>. Alle tre arter uddøde før <a href="/wiki/Weichsel-istiden" title="Weichsel-istiden">den seneste istid</a>. Forfædre til europæiske flodheste fandt vej til mange øer i <a href="/wiki/Middelhavet" title="Middelhavet">Middelhavet</a> under <a href="/wiki/Pleistoc%C3%A6n" title="Pleistocæn">Pleistocæn-perioden</a>.<sup id="cite_ref-Taxonomy_of_Pleistocene_22-0" class="reference"><a href="#cite_note-Taxonomy_of_Pleistocene-22">&#91;22&#93;</a></sup> Under Pleistocæn udviklede der sig også en række dværgarter på flere Middelhavsøer, herunder <a href="/wiki/Kreta" title="Kreta">Kreta</a> (<i>Hippopotamus creutzburgi</i>), <a href="/wiki/Cypern" title="Cypern">Cypern</a> (<i>Hippopotamus minor</i>), <a href="/wiki/Malta" title="Malta">Malta</a> (<i>Hippopotamus melitensis</i>) og <a href="/wiki/Sicilien" title="Sicilien">Sicilien</a> (<i>Hippopotamus pentlandi</i>). Af disse overlevede <i>Hippopotamus minor</i> indtil slutningen af Pleistocæn eller tidlig <a href="/wiki/Holoc%C3%A6n" title="Holocæn">Holocæn</a>. Beviser fra det arkæologiske sted, Aetokremnos, fortsætter med at skabe debat om, hvorvidt arten blev udryddet af mennesker.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-Taxonomy_of_Pleistocene_22-1" class="reference"><a href="#cite_note-Taxonomy_of_Pleistocene-22">&#91;22&#93;</a></sup> På tværs af <a href="/wiki/Eurasien" title="Eurasien">Eurasien</a> uddøde flodhesten for mellem 50.000-16.000 år siden.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fysiske_kendetegn">Fysiske kendetegn</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flodhest&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Redigér afsnit: Fysiske kendetegn">redigér</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Flodhest&amp;action=edit&amp;section=6" title="Redigér afsnit: Fysiske kendetegn">rediger kildetekst</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fil:Hippo_skull_dark.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hippo_skull_dark.jpg/220px-Hippo_skull_dark.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hippo_skull_dark.jpg/330px-Hippo_skull_dark.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hippo_skull_dark.jpg/440px-Hippo_skull_dark.jpg 2x" data-file-width="2016" data-file-height="1512" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fil:Hippo_skull_dark.jpg" class="internal" title="Forstør"></a></div><a href="/wiki/Kranie" class="mw-redirect" title="Kranie">Kranie</a> fra en flodhest, som viser de store skarpe for- og hjørnetænder, der bruges til kamp.</div></div></div>
+<p>Flodheste er blandt de største levende landpattedyr og er kun mindre end <a href="/wiki/Elefant" class="mw-redirect" title="Elefant">elefanter</a> og nogle arter af <a href="/wiki/N%C3%A6sehorn" title="Næsehorn">næsehorn</a>. Blandt de nulevende afrikanske <a href="/wiki/Megafauna" title="Megafauna">megafauna</a>, er flodhesten, efter kropsmasse, i gennemsnit mindre end de to afrikanske elefantarter og det <a href="/wiki/Hvidt_n%C3%A6sehorn" title="Hvidt næsehorn">hvide næsehorn</a>, men større end både det <a href="/wiki/Sort_n%C3%A6sehorn" title="Sort næsehorn">sorte næsehorn</a> og <a href="/wiki/Giraf" title="Giraf">giraffen</a>. Fuldvoksne flodheste er 2,90 til 5,05 m lange, inklusiv halen, som er omkring 35 til 56 cm i længden. Flodheste har en skulderhøjde på 1,30 til 1,65 m.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> Gennemsnitsvægten for en voksen flodhest er omkring 1.500 kg og 1.300 kg for henholdsvis hanner og hunner,<sup id="cite_ref-Owen-Smith_1992_28-0" class="reference"><a href="#cite_note-Owen-Smith_1992-28">&#91;28&#93;</a></sup><sup id="cite_ref-Piennar_etal_1966_29-0" class="reference"><a href="#cite_note-Piennar_etal_1966-29">&#91;29&#93;</a></sup> meget store hanner kan nå op på 2.000 kg. Dog er usædvanligt store hanner med en vægt på 2.660 kg,<sup id="cite_ref-Owen-Smith_1992_28-1" class="reference"><a href="#cite_note-Owen-Smith_1992-28">&#91;28&#93;</a></sup> 3.200 kg<sup id="cite_ref-Eltringham_30-0" class="reference"><a href="#cite_note-Eltringham-30">&#91;30&#93;</a></sup> og 4.500 kg (i fangenskab)<sup id="cite_ref

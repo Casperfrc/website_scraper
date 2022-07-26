@@ -30,17 +30,31 @@ namespace Program
             }
         }
 
+
+        public static async void writeStringToFile(String fileName, String customString)
+        {
+            await File.WriteAllTextAsync(fileName, customString);
+        }
+
+
+        public static String readStringFromFile(String fileName)
+        {
+            return System.IO.File.ReadAllText(@"C:\coding_projects\C#_training\website_scraper\temp_data\" + fileName);
+        }
+
+
+        
+
+
         static void Main(string[] args)
         {
-        // Car Ford = new Car();  // Create an object of the Car Class (this will call the constructor)
-        // Console.WriteLine(Ford.model);  // Print the value of model
+        // // Setting up data as to not spam
+        // String htmlFromSite = getFromUrl("https://da.wikipedia.org/wiki/Flodhest").Result;
+        // writeStringToFile("temp_data/flodhest_wiki.txt", htmlFromSite);
 
+        
 
-
-        String htmlFromSite = getFromUrl("http://www.casperfaerch.com").Result;
-
-        Console.WriteLine(htmlFromSite);
-
+        Console.WriteLine(readStringFromFile("flodhest_wiki.txt"));
 
         }
 
