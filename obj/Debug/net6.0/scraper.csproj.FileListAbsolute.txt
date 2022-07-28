@@ -28,3 +28,5 @@ C:\coding_projects\C#_training\website_scraper\bin\Debug\net6.0\scraper.dll
 C:\coding_projects\C#_training\website_scraper\bin\Debug\net6.0\scraper.pdb
 C:\coding_projects\C#_training\website_scraper\obj\Debug\net6.0\scraper.genruntimeconfig.cache
 C:\coding_projects\C#_training\website_scraper\obj\Debug\net6.0\ref\scraper.dll
+C:\coding_projects\C#_training\website_scraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\coding_projects\C#_training\website_scraper\obj\Debug\net6.0\scraper.csproj.CopyComplete

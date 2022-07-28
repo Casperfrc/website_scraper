@@ -1,4 +1,10 @@
 ﻿using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Threading.Tasks;
+using System.Net;
+using System.Text;
+using System.IO;
+using HtmlAgilityPack;
 
 namespace Program
 {
@@ -7,19 +13,16 @@ namespace Program
         // HttpClient is intended to be instantiated once per application, rather than per-use. See Remarks.
         static readonly HttpClient client = new HttpClient();
 
-
         public static async Task<String> getFromUrl(String Url)
         {
             // Call asynchronous network methods in a try/catch block to handle exceptions.
             try	
             {
-                HttpResponseMessage response = await client.GetAsync(Url);
-                response.EnsureSuccessStatusCode();
-                string responseBody = await response.Content.ReadAsStringAsync();
-                // Above three lines can be replaced with new helper method below
-                // string responseBody = await client.GetStringAsync(uri);
+                // Creating client and calling URL asynchronously
+                HttpClient client = new HttpClient();
+                var response = await client.GetStringAsync(Url);
                 
-                return responseBody;
+                return response;
             }
             catch(HttpRequestException e)
             {
@@ -43,18 +46,37 @@ namespace Program
         }
 
 
+        //public static String[] getHtmlElementByTag(){
+        public static List<string> getHtmlElementByTag(String html, String tag){
+            HtmlDocument htmlDoc = new HtmlDocument();
+            htmlDoc.LoadHtml(html);
+
+            List<HtmlNode> htmlNodes = htmlDoc.DocumentNode
+                .SelectNodes("//" + tag)
+                .ToList();
+
+            List<string> listOfTexts = new List<string>(htmlNodes.Select(x => x.InnerText));
+
+
+            return listOfTexts;
+        }
         
 
 
         static void Main(string[] args)
         {
         // // Setting up data as to not spam
-        // String htmlFromSite = getFromUrl("https://da.wikipedia.org/wiki/Flodhest").Result;
-        // writeStringToFile("temp_data/flodhest_wiki.txt", htmlFromSite);
+        //String html = getFromUrl("https://da.wikipedia.org/wiki/Flodhest").Result;
+        // writeStringToFile("temp_data/flodhest_wiki.txt", html);
 
         
+        String html = readStringFromFile("flodhest_wiki.txt");
 
-        Console.WriteLine(readStringFromFile("flodhest_wiki.txt"));
+        List<string> result = getHtmlElementByTag(html, "p");
+
+        Console.WriteLine("Amount of p tag texts: " + result.Count());
+        Console.WriteLine("First p tag text: " + result[0]);
+        
 
         }
 
